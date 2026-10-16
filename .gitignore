@@ -1,0 +1,6 @@
+*.pdf
+*.csv
+*.xlsx
+.env*
+private/
+receipts/
